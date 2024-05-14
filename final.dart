@@ -1,1 +1,3 @@
-print("My dart enviroment")
+void main() {
+  print("My dart enviroment");
+}
